@@ -1,4 +1,4 @@
-# Supabase Crash Course for iOS Devs (Starter)
+# Supabase Crash Course for iOS Developers (Starter)
 
 [Watch the tutorial](https://youtu.be/XBSiXROUoZk) on Mikaela's YouTube channel
 
