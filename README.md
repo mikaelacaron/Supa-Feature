@@ -1,3 +1,3 @@
 # Supa Feature
 
-Starter project
+Final project
